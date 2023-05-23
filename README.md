@@ -10,7 +10,36 @@ Pour cela, la maquette retrace le parcours de quatre personnages, aux profiles t
 * Hildegard, une personne active
 * Otto, un collégien
 * Mathilde, une enfant en primaire
+  
+ On y retrouve différents points d'intérêts, possédants chacun leur propre ambiance sonore : le marché, les bureaux, le parc, le Monoprix, le collège, l'école, le bar, la piscine, les stations de tramway et de métro.
+ 
+## Guide d'utilisation
 
+Lors de la présentation de la maquette, j'ai rajouté différents raccourcis afin d'exécuter le plus rapidement les requêtes du public. Il est possible de visualiser le trajet et le centre d'intérêt de son choix.
+
+### Raccourcis des quatre trajets
+
+|Personnage|Raccourci|
+|---- |----| 
+| Horst| 1|
+| Hildegard | 2 |
+| Otto | 3 |
+| Mathilde | 4 |
+
+### Raccourcis des points d'intérêts
+
+|Lieu|Raccourci|
+|----|----|
+|Bar|B|
+|Bureaux|S|
+|Collège|C|
+|Ecole|E|
+|Marché|A|
+|Monoprix|O|
+|Parc|P|
+|Piscine|W|
+|Station de métro|R|
+|Station de tramway|T|
 
 ## Crédits
 
